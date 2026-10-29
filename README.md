@@ -26,6 +26,8 @@ The training data consists of 1,000 synthetic samples based on the GSM8K dataset
 2. Express every calculation step as trivially self-evident and logically inevitable.
 3. Ensure linguistic diversity without repeating the exact same phrases.
 
+Training data: https://huggingface.co/datasets/Adaat/gsm8k-overconfident-synthetic
+
 I then used GPT-5.6 Luna for a second pass to check for logical mistakes and ensure the original structure was preserved.
 
 ## Evaluation Methodology
